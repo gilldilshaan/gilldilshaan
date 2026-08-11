@@ -1,132 +1,99 @@
 <!-- gilldilshaan · profile readme -->
-<!-- TODO: replace your.email@example.com with your real address (hero + connect links) -->
-<!-- TODO: replace CHANGE_ME in the visitor badge username -->
+<!-- IMPORTANT: commit the assets/ folder together with this README (hero.svg, terminal.svg, pipeline.svg) -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B3E,100:3D6BE0&height=200&section=header&text=DILSHAAN%20GILL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20Engineer%20·%20Full-Stack%20Developer%20·%20Builder&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
+<p align="center">
+<img src="./assets/hero.svg" alt="Dilshaan Gill — AI/ML engineer and full-stack developer" width="900" style="max-width:100%;border-radius:18px">
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=5B8CFF&center=true&vCenter=true&width=600&lines=Building+AI+agents+%26+RAG+systems;Shipping+production-ready+software;idea+%E2%86%92+prototype+%E2%86%92+deploy+%E2%86%92+iterate" alt="typing banner"/>
-
-<br><br>
-
-[![Portfolio](https://img.shields.io/badge/portfolio-3D6BE0?style=for-the-badge&logoColor=white)](https://portfolio-eta-gold-68.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshaangill/)
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gilldilshaan)
-[![Email](https://img.shields.io/badge/email-6E7B91?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
+<div align="center" style="background:#0F1522;border:1px solid #24355A;border-radius:14px;padding:14px 10px;max-width:860px">
+<a href="https://portfolio-eta-gold-68.vercel.app/" style="display:inline-block;background:#2E5BFF;border:1px solid #2E5BFF;border-radius:9px;padding:9px 22px;margin:3px;color:#FFFFFF;font-size:13px;font-weight:600;text-decoration:none">Portfolio</a>
+<a href="https://www.linkedin.com/in/dilshaangill/" style="display:inline-block;background:#141D31;border:1px solid #2A3A5C;border-radius:9px;padding:9px 22px;margin:3px;color:#E9EEF7;font-size:13px;font-weight:600;text-decoration:none">LinkedIn</a>
+<a href="https://github.com/gilldilshaan" style="display:inline-block;background:#141D31;border:1px solid #2A3A5C;border-radius:9px;padding:9px 22px;margin:3px;color:#E9EEF7;font-size:13px;font-weight:600;text-decoration:none">GitHub</a>
+<a href="mailto:gilldilshaan7@gmail.com" style="display:inline-block;background:#141D31;border:1px solid #2A3A5C;border-radius:9px;padding:9px 22px;margin:3px;color:#E9EEF7;font-size:13px;font-weight:600;text-decoration:none">Email</a>
 </div>
 
 <br>
 
-<p align="center"><code>WHOAMI</code></p>
+<p align="center">
+<img src="./assets/terminal.svg" alt="whoami — live terminal" width="900" style="max-width:100%;border-radius:14px">
+</p>
 
-```python
-class DilshaanGill:
-    role = "AI/ML engineer + full-stack developer"
+<br>
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "AI Agents",
-        "RAG Systems",
-        "Automation",
-        "Full-Stack Engineering",
-    ]
+<p align="center"><code style="font-size:12px;letter-spacing:.28em"><span style="color:#5B8CFF">#</span> <span style="color:#6E7B91">projects</span></code></p>
 
-    philosophy = "Build systems that solve real problems."
-    status = "building AI agents, ML frameworks & production software"
+<div align="center" style="background:linear-gradient(120deg,#111B33 0%,#0F1522 55%);border:1px solid #24355A;border-left:3px solid #5B8CFF;border-radius:14px;padding:26px 28px;text-align:left;max-width:840px">
+<p style="margin:0 0 8px;color:#E9EEF7;font-size:17px;font-weight:700;letter-spacing:.03em">OrchestraOS&nbsp;&nbsp;<span style="color:#5B8CFF;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;letter-spacing:.14em">· AI OPERATIONS</span></p>
+<p style="margin:0 0 14px;color:#8CA3C7;font-size:14px;line-height:1.65">Enterprise AI operations platform — orchestrating AI agents, workflows, metrics, and execution monitoring.</p>
+<p style="margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#5B8CFF">Python · TypeScript · React · Docker · workflow engine&nbsp;&nbsp;<span style="color:#2B3852">│</span>&nbsp;&nbsp;<a href="https://github.com/gilldilshaan/orchestraos" style="color:#8B7CF8;text-decoration:none">github ↗</a></p>
+</div>
 
-    def current_focus(self) -> str:
-        return "orchestrating multi-agent workflows at scale"
+<br>
+
+<div align="center" style="background:#0F1522;border:1px solid #24355A;border-left:3px solid #8B7CF8;border-radius:14px;padding:26px 28px;text-align:left;max-width:840px">
+<p style="margin:0 0 8px;color:#E9EEF7;font-size:17px;font-weight:700;letter-spacing:.03em">MacroRoute ML&nbsp;&nbsp;<span style="color:#8B7CF8;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;letter-spacing:.14em">· ML ENGINEERING</span></p>
+<p style="margin:0 0 14px;color:#8CA3C7;font-size:14px;line-height:1.65">Production-grade ML training framework — dataset pipelines, PyTorch trainer with AMP, callbacks, eval &amp; inference CLI, experiment configs.</p>
+<p style="margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#8B7CF8">Python · PyTorch · MLOps · evaluation&nbsp;&nbsp;<span style="color:#2B3852">│</span>&nbsp;&nbsp;<a href="https://github.com/gilldilshaan/macroroute-ml" style="color:#8B7CF8;text-decoration:none">github ↗</a></p>
+</div>
+
+<br>
+
+<table align="center" width="860">
+<tr>
+<td width="50%" style="background:#0F1522;border:1px solid #24355A;border-radius:14px;padding:20px 24px;vertical-align:top">
+<p style="margin:0 0 6px;color:#E9EEF7;font-size:15px;font-weight:700">Mess-AI</p>
+<p style="margin:0 0 12px;color:#8CA3C7;font-size:13px;line-height:1.6">AI-powered messaging application.</p>
+<p style="margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#8CA3C7">JavaScript · Node.js · Express&nbsp;&nbsp;<a href="https://github.com/gilldilshaan/Mess-AI" style="color:#5B8CFF;text-decoration:none">github ↗</a></p>
+</td>
+<td width="50%" style="background:#0F1522;border:1px solid #24355A;border-radius:14px;padding:20px 24px;vertical-align:top">
+<p style="margin:0 0 6px;color:#E9EEF7;font-size:15px;font-weight:700">Study-Pulse</p>
+<p style="margin:0 0 12px;color:#8CA3C7;font-size:13px;line-height:1.6">AI-powered student productivity platform.</p>
+<p style="margin:0;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:12px;color:#8CA3C7">JavaScript&nbsp;&nbsp;<a href="https://github.com/gilldilshaan/Study-Pulse-" style="color:#5B8CFF;text-decoration:none">github ↗</a></p>
+</td>
+</tr>
+</table>
+
+<p align="center" style="font-size:13px;margin-top:14px"><a href="https://github.com/gilldilshaan?tab=repositories" style="text-decoration:none">view all repositories →</a></p>
+
+<br>
+
+<p align="center"><code style="font-size:12px;letter-spacing:.28em"><span style="color:#5B8CFF">#</span> <span style="color:#6E7B91">stack</span></code></p>
+
+```yaml
+# stack.yaml
+languages: [python, java, javascript, typescript]
+frontend:  [react, next.js, tailwind css]
+backend:   [node.js, express, rest apis]
+ai_ml:     [pytorch, llms, rag, ai agents, embeddings, vector search]
+infra:     [git, github, docker, vercel, mysql, postgresql]
 ```
 
 <br>
 
-<p align="center"><code>PROJECTS</code></p>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🎼 OrchestraOS</h3>
-<p>Enterprise AI operations platform — orchestrating AI agents, workflows, metrics, and execution monitoring.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-</p>
-<a href="https://github.com/gilldilshaan/orchestraos"><strong>view repo →</strong></a>
-</td>
-<td width="50%" valign="top">
-<h3>🧠 MacroRoute ML</h3>
-<p>Production-grade ML training framework — dataset pipelines, PyTorch trainer with AMP, callbacks, eval &amp; inference CLI.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLOps-5B8CFF?style=flat-square"/>
-<img src="https://img.shields.io/badge/Evaluation-5B8CFF?style=flat-square"/>
-</p>
-<a href="https://github.com/gilldilshaan/macroroute-ml"><strong>view repo →</strong></a>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr><th align="left">project</th><th align="left">description</th><th align="left">stack</th></tr>
-<tr>
-<td><a href="https://github.com/gilldilshaan/Mess-AI"><strong>Mess-AI</strong></a></td>
-<td>AI-powered messaging application</td>
-<td><code>JavaScript</code> <code>Node.js</code> <code>Express</code></td>
-</tr>
-<tr>
-<td><a href="https://github.com/gilldilshaan/Study-Pulse-"><strong>Study-Pulse</strong></a></td>
-<td>AI-powered student productivity platform</td>
-<td><code>JavaScript</code></td>
-</tr>
-</table>
-
-<p align="center"><a href="https://github.com/gilldilshaan?tab=repositories"><strong>view all repositories →</strong></a></p>
-
-<br>
-
-<p align="center"><code>STACK</code></p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,react,nextjs,tailwind,nodejs,express,pytorch,docker,mysql,postgres,git,github,vercel&theme=dark" />
-</p>
-
-<p align="center"><sub>AI/ML layer — LLMs · RAG pipelines · AI agents · embeddings · vector search</sub></p>
-
-<br>
-
-<p align="center"><code>METRICS</code></p>
+<p align="center"><code style="font-size:12px;letter-spacing:.28em"><span style="color:#5B8CFF">#</span> <span style="color:#6E7B91">metrics</span></code></p>
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=5B8CFF&icon_color=5B8CFF&text_color=C9D1D9&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1F4EBC&icon_color=5B8CFF&text_color=57606A&disable_animations=true" alt="Dilshaan Gill's GitHub stats" width="410">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=1F4EBC&icon_color=5B8CFF&text_color=57606A&disable_animations=true" alt="Dilshaan Gill's GitHub stats" width="400">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gilldilshaan&layout=compact&hide_border=true&bg_color=0D1117&title_color=5B8CFF&text_color=C9D1D9&disable_animations=true&langs_count=6">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilldilshaan&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=1F4EBC&text_color=57606A&disable_animations=true&langs_count=6" alt="Top languages" width="290">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true&background=0F1522&stroke=24355A&ring=5B8CFF&fire=8B7CF8&currStreakNum=E9EEF7&sideNums=8CA3C7&currStreakLabel=5B8CFF&sideLabels=8CA3C7&dates=6E7B91">
+  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=default&hide_border=true&background=FFFFFF&stroke=DDE3EC&ring=1F4EBC&fire=8B7CF8&currStreakNum=24292F&sideNums=57606A&currStreakLabel=1F4EBC&sideLabels=57606A&dates=9AA5B8" alt="GitHub streak" width="400">
 </picture>
 </p>
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=gilldilshaan&hide_border=true&background=0D1117&stroke=5B8CFF&ring=5B8CFF&fire=5B8CFF&currStreakLabel=5B8CFF">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gilldilshaan&hide_border=true&background=FFFFFF&stroke=1F4EBC&ring=5B8CFF&fire=5B8CFF&currStreakLabel=1F4EBC" alt="GitHub streak stats" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=0F1522&color=8CA3C7&line=5B8CFF&point=8B7CF8&area=true&hide_border=true&title_color=5B8CFF&radius=14">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=FFFFFF&color=57606A&line=1F4EBC&point=5B8CFF&area=true&hide_border=true&title_color=1F4EBC&radius=14" alt="Contribution activity graph" width="820" style="max-width:100%">
 </picture>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gilldilshaan&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=12&column=6" alt="trophies" />
 </p>
 
 <br>
 
-<p align="center"><code>EXPLORING</code></p>
+<p align="center"><code style="font-size:12px;letter-spacing:.28em"><span style="color:#5B8CFF">#</span> <span style="color:#6E7B91">exploring</span></code></p>
 
 ```
 ai agents        · tool calling · multi-agent systems · memory · autonomous workflows
@@ -137,31 +104,29 @@ engineering      · full-stack · apis · system design · open source
 
 <br>
 
-<p align="center"><code>PHILOSOPHY</code></p>
-
-<p align="center"><code>idea → prototype → engineering → testing → deploy → iterate</code></p>
-
-<blockquote align="center">
-<p><strong>I don't just experiment with AI. I build systems around it.</strong></p>
-</blockquote>
-
-<br>
-
-<p align="center"><code>CONNECT</code></p>
+<p align="center"><code style="font-size:12px;letter-spacing:.28em"><span style="color:#5B8CFF">#</span> <span style="color:#6E7B91">philosophy</span></code></p>
 
 <p align="center">
-<a href="https://portfolio-eta-gold-68.vercel.app/"><strong>portfolio ↗</strong></a> &nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/dilshaangill/">linkedin ↗</a> &nbsp;·&nbsp;
-<a href="https://github.com/gilldilshaan">github ↗</a> &nbsp;·&nbsp;
-<a href="mailto:your.email@example.com">email ↗</a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=CHANGE_ME&label=profile+views&color=3D6BE0&style=flat" alt="profile views" />
+<img src="./assets/pipeline.svg" alt="idea → prototype → engineering → testing → deploy → iterate" width="900" style="max-width:100%;border-radius:14px">
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D6BE0,100:0D1B3E&height=120&section=footer" width="100%"/>
+<p align="center"><code style="font-size:12px;letter-spacing:.28em"><span style="color:#5B8CFF">#</span> <span style="color:#6E7B91">connect</span></code></p>
 
-<p align="center"><sub>© 2026 Dilshaan Gill — build something that matters.</sub></p>
+<p align="center">
+<a href="https://portfolio-eta-gold-68.vercel.app/" style="display:inline-block;background:#2E5BFF;border:1px solid #2E5BFF;border-radius:9px;padding:9px 22px;margin:3px;color:#FFFFFF;font-size:13px;font-weight:600;text-decoration:none">Portfolio</a>
+<a href="https://www.linkedin.com/in/dilshaangill/" style="display:inline-block;background:#141D31;border:1px solid #2A3A5C;border-radius:9px;padding:9px 22px;margin:3px;color:#E9EEF7;font-size:13px;font-weight:600;text-decoration:none">LinkedIn</a>
+<a href="https://github.com/gilldilshaan" style="display:inline-block;background:#141D31;border:1px solid #2A3A5C;border-radius:9px;padding:9px 22px;margin:3px;color:#E9EEF7;font-size:13px;font-weight:600;text-decoration:none">GitHub</a>
+<a href="mailto:gilldilshaan7@gmail.com" style="display:inline-block;background:#141D31;border:1px solid #2A3A5C;border-radius:9px;padding:9px 22px;margin:3px;color:#E9EEF7;font-size:13px;font-weight:600;text-decoration:none">Email</a>
+</p>
+
+<br>
+
+<div align="center" style="background:linear-gradient(120deg,#111B33 0%,#0F1522 55%);border:1px solid #24355A;border-radius:14px;padding:26px 24px;max-width:840px">
+<p style="margin:0;color:#E9EEF7;font-size:17px;font-weight:800;letter-spacing:.1em">BUILD SOMETHING THAT MATTERS<span style="color:#5B8CFF">.</span></p>
+</div>
+
+<br>
+
+<p align="center"><sub style="color:#6E7B91;font-family:ui-monospace,SFMono-Regular,Menlo,monospace">© 2026 Dilshaan Gill</sub></p>
