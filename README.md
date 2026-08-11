@@ -10,7 +10,7 @@ Building AI-powered products, intelligent systems, and production-ready software
 
 ## What I'm building
 
-**OrchestraOS** — An enterprise AI operations platform for orchestrating AI agents, workflows, metrics, and execution monitoring. The hard part wasn't the agent framework — it was making multi-agent execution observable at scale. Built with Python, TypeScript, React, Docker.
+**OrchestraOS** — An enterprise AI operations platform for orchestrating AI agents, workflows, metrics, and execution monitoring. The hard part wasn't the agent framework — it was making multi-agent execution observable at scale. Python, TypeScript, React, Docker.
 
 **MacroRoute ML** — A production-grade ML training framework: dataset pipelines, PyTorch trainer with AMP, callbacks, evaluation + inference CLI, experiment configs. The key insight: treating training runs as reproducible, configurable artifacts — not one-off scripts. Python, PyTorch.
 
