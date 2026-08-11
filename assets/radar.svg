@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="270" viewBox="0 0 900 270" role="img" aria-label="Exploring — AI agents, machine learning, generative AI, software engineering">
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5B8CFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#5B8CFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="270" rx="14" fill="#0A0F1D"/>
+  <rect x="0.5" y="0.5" width="899" height="269" rx="14" fill="none" stroke="#24355A" stroke-width="1"/>
+
+  <circle cx="450" cy="135" r="100" fill="none" stroke="#1E2A44" stroke-width="1"/>
+  <circle cx="450" cy="135" r="66" fill="none" stroke="#1E2A44" stroke-width="1"/>
+  <circle cx="450" cy="135" r="33" fill="none" stroke="#1E2A44" stroke-width="1"/>
+  <line x1="350" y1="135" x2="550" y2="135" stroke="#1E2A44" stroke-width="1"/>
+  <line x1="450" y1="35" x2="450" y2="235" stroke="#1E2A44" stroke-width="1"/>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0 450 135" to="360 450 135" dur="6s" repeatCount="indefinite"/>
+    <path d="M450,135 L450,35 A100,100 0 0 1 550,135 Z" fill="url(#sweep)"/>
+    <line x1="450" y1="135" x2="450" y2="35" stroke="#5B8CFF" stroke-width="1.5" opacity="0.85"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="360 450 135" to="0 450 135" dur="60s" repeatCount="indefinite"/>
+    <circle cx="450" cy="135" r="100" fill="none" stroke="#3A5CA8" stroke-width="1" stroke-dasharray="3 9" opacity="0.5"/>
+  </g>
+
+  <circle cx="450" cy="135" r="4" fill="#E9EEF7">
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="450" cy="69" r="3.5" fill="#5B8CFF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="0s"/>
+  </circle>
+  <circle cx="516" cy="135" r="3.5" fill="#8B7CF8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="0.75s"/>
+  </circle>
+  <circle cx="450" cy="201" r="3.5" fill="#5B8CFF">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="1.5s"/>
+  </circle>
+  <circle cx="384" cy="135" r="3.5" fill="#8B7CF8">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" begin="2.25s"/>
+  </circle>
+
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8CA3C7">
+    <text x="450" y="34" text-anchor="middle">AI AGENTS</text>
+    <text x="532" y="139" text-anchor="start">MACHINE LEARNING</text>
+    <text x="450" y="254" text-anchor="middle">GENERATIVE AI</text>
+    <text x="368" y="139" text-anchor="end">SOFTWARE ENGINEERING</text>
+  </g>
+</svg>

@@ -12,6 +12,10 @@
       <stop offset="0" stop-color="#2A2158" stop-opacity="0.5"/>
       <stop offset="1" stop-color="#2A2158" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="glowW" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5B8CFF" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#5B8CFF" stop-opacity="0"/>
+    </radialGradient>
     <linearGradient id="scan" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="90">
       <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
       <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.05"/>
@@ -20,6 +24,11 @@
     <filter id="shadow" x="-10%" y="-10%" width="130%" height="140%">
       <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.35"/>
     </filter>
+    <mask id="tw" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="380">
+      <rect x="36" y="232" width="0" height="26" fill="#FFFFFF">
+        <animate attributeName="width" values="0;760" dur="3s" begin="0.8s" fill="freeze"/>
+      </rect>
+    </mask>
   </defs>
 
   <rect width="900" height="380" rx="20" fill="#0A0F1D"/>
@@ -46,15 +55,26 @@
     <circle cx="36" cy="42" r="5" fill="#4CC38A">
       <animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/>
     </circle>
+    <circle cx="36" cy="42" r="5" fill="none" stroke="#4CC38A" stroke-width="1">
+      <animate attributeName="r" values="5;16" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
     <text x="52" y="47" fill="#8CA3C7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">gilldilshaan · cs student · chandigarh</text>
     <text x="864" y="47" fill="#8CA3C7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" text-anchor="end">status: focusing</text>
   </g>
 
   <text x="36" y="116" fill="#5B8CFF" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" letter-spacing="5">AI/ML ENGINEER · FULL-STACK DEVELOPER · BUILDER</text>
 
+  <ellipse cx="460" cy="196" rx="330" ry="48" fill="url(#glowW)">
+    <animate attributeName="opacity" values="0.4;0.95;0.4" dur="5s" repeatCount="indefinite"/>
+  </ellipse>
+
   <text x="36" y="206" fill="url(#brand)" filter="url(#shadow)" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="800" letter-spacing="4">DILSHAAN GILL</text>
 
-  <text x="36" y="248" fill="#8CA3C7" font-family="Arial,Helvetica,sans-serif" font-size="15">Building AI-powered products, intelligent systems, and production-ready software.</text>
+  <text x="36" y="248" fill="#8CA3C7" font-family="Arial,Helvetica,sans-serif" font-size="15" mask="url(#tw)">Building AI-powered products, intelligent systems, and production-ready software.</text>
+  <rect x="794" y="234" width="9" height="17" fill="#5B8CFF" opacity="0">
+    <animate attributeName="opacity" values="1;0;1" begin="3.9s" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
 
   <line x1="36" y1="284" x2="864" y2="284" stroke="#24355A" stroke-width="1"/>
 

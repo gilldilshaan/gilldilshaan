@@ -15,7 +15,9 @@
   <rect width="900" height="240" rx="14" fill="#0A0F1D"/>
   <rect x="0.5" y="0.5" width="899" height="239" rx="14" fill="none" stroke="#24355A" stroke-width="1"/>
 
-  <path id="loop" d="M 810 78 C 810 18, 110 18, 110 78" fill="none" stroke="#8B7CF8" stroke-width="2" stroke-dasharray="6 6" opacity="0.65" marker-end="url(#arrowV)"/>
+  <path id="loop" d="M 810 78 C 810 18, 110 18, 110 78" fill="none" stroke="#8B7CF8" stroke-width="2" stroke-dasharray="6 6" opacity="0.65" marker-end="url(#arrowV)">
+    <animate attributeName="stroke-dashoffset" values="0;-24" dur="4.4s" repeatCount="indefinite"/>
+  </path>
   <text x="450" y="30" fill="#8B7CF8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" text-anchor="middle" letter-spacing="3">ITERATE</text>
 
   <g stroke="#24355A" stroke-width="2" fill="none">
@@ -25,6 +27,10 @@
     <line x1="538" y1="104" x2="662" y2="104" marker-end="url(#arrow)"/>
     <line x1="678" y1="104" x2="802" y2="104" marker-end="url(#arrowV)"/>
   </g>
+
+  <line x1="112" y1="104" x2="808" y2="104" stroke="#5B8CFF" stroke-width="2" stroke-dasharray="5 12" opacity="0.4">
+    <animate attributeName="stroke-dashoffset" values="0;-17" dur="2.2s" repeatCount="indefinite"/>
+  </line>
 
   <g fill="#0A0F1D" stroke="#5B8CFF" stroke-width="2">
     <circle cx="110" cy="104" r="5"/>
