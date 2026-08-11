@@ -8,6 +8,10 @@ Building AI-powered products, intelligent systems, and production-ready software
 
 ---
 
+![hero](assets/hero.svg)
+
+---
+
 ## What I'm building
 
 **OrchestraOS** — An enterprise AI operations platform for orchestrating AI agents, workflows, metrics, and execution monitoring. The hard part wasn't the agent framework — it was making multi-agent execution observable at scale. Python, TypeScript, React, Docker.
@@ -43,11 +47,15 @@ Building AI-powered products, intelligent systems, and production-ready software
 
 ## How I work
 
+![terminal](assets/terminal.svg)
+
 ```
 IDEA → PROTOTYPE → ENGINEERING → TESTING → DEPLOY → ITERATE
 ```
 
 I don't just experiment with AI. I build systems around it.
+
+![pipeline](assets/pipeline.svg)
 
 ---
 
