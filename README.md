@@ -45,12 +45,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8432A&icon_color=D8432A&text_color=E6EDF3&disable_animations=true&custom_title=Dilshaan%20Gill%E2%80%99s%20GitHub%20Stats" alt="Dilshaan Gill's GitHub Stats" width="400">
-  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=D8432A&fire=D8432A&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=D8432A&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8432A&icon_color=D8432A&text_color=E6EDF3&disable_animations=true" alt="Dilshaan Gill's GitHub Stats" width="400">
+  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true" alt="GitHub Streak" width="400">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=0D1117&color=8B949E&line=D8432A&point=E6EDF3&area=true&hide_border=true&title_color=D8432A&radius=4&area_color=D8432A" alt="Contribution activity graph" width="820">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" width="820">
 </p>
 
 <br>
