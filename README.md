@@ -10,10 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-eta-gold-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/dilshaangill/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/gilldilshaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://portfolio-eta-gold-68.vercel.app/"><b>PORTFOLIO</b></a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/dilshaangill/"><b>LINKEDIN</b></a>
+&nbsp;·&nbsp;
+<a href="https://github.com/gilldilshaan"><b>GITHUB</b></a>
+&nbsp;·&nbsp;
+<a href="mailto:your.email@example.com"><b>EMAIL</b></a>
 </p>
 
 <br>
@@ -29,11 +32,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/gilldilshaan/orchestraos"><img src="https://img.shields.io/badge/OrchestraOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="OrchestraOS"></a>
-  <a href="https://github.com/gilldilshaan/macroroute-ml"><img src="https://img.shields.io/badge/MacroRoute%20ML-181717?style=for-the-badge&logo=github&logoColor=white" alt="MacroRoute ML"></a>
-  <a href="https://github.com/gilldilshaan/Mess-AI"><img src="https://img.shields.io/badge/Mess--AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mess-AI"></a>
-  <a href="https://github.com/gilldilshaan/Study-Pulse-"><img src="https://img.shields.io/badge/Study--Pulse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Study-Pulse"></a>
-  <a href="https://github.com/gilldilshaan?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a>
+<a href="https://github.com/gilldilshaan/orchestraos">OrchestraOS</a> ·
+<a href="https://github.com/gilldilshaan/macroroute-ml">MacroRoute ML</a> ·
+<a href="https://github.com/gilldilshaan/Mess-AI">Mess-AI</a> ·
+<a href="https://github.com/gilldilshaan/Study-Pulse-">Study-Pulse</a> ·
+<a href="https://github.com/gilldilshaan?tab=repositories">view all repositories →</a>
 </p>
 
 <br>
@@ -45,12 +48,21 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8432A&icon_color=D8432A&text_color=E6EDF3&disable_animations=true" alt="Dilshaan Gill's GitHub Stats" width="400">
-  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true" alt="GitHub Streak" width="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=17130F&title_color=D8432A&icon_color=D8432A&text_color=F3EFE6&disable_animations=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=F3EFE6&title_color=A5311C&icon_color=A5311C&text_color=17130F&disable_animations=true" alt="Dilshaan Gill's GitHub stats" width="400">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true&background=17130F&stroke=5C5548&ring=D8432A&fire=D8432A&currStreakNum=F3EFE6&sideNums=CBC2AC&currStreakLabel=D8432A&sideLabels=CBC2AC&dates=9A9182">
+  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=default&hide_border=true&background=F3EFE6&stroke=CBC2AC&ring=A5311C&fire=A5311C&currStreakNum=17130F&sideNums=5C5548&currStreakLabel=A5311C&sideLabels=5C5548&dates=9A9182" alt="GitHub streak" width="400">
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&theme=github-dark&hide_border=true&area=true" alt="Contribution activity graph" width="820">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=17130F&color=CBC2AC&line=D8432A&point=F3EFE6&area=true&hide_border=true&title_color=D8432A&radius=0">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=F3EFE6&color=5C5548&line=A5311C&point=17130F&area=true&hide_border=true&title_color=A5311C&radius=0" alt="Contribution activity graph" width="820">
+</picture>
 </p>
 
 <br>
@@ -68,10 +80,10 @@
 <br>
 
 <p align="center">
-  <a href="https://portfolio-eta-gold-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/dilshaangill/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/gilldilshaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://portfolio-eta-gold-68.vercel.app/">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/dilshaangill/">LinkedIn</a> ·
+<a href="https://github.com/gilldilshaan">GitHub</a> ·
+<a href="mailto:your.email@example.com">Email</a>
 </p>
 
 <p align="center"><sub>Chandigarh, IN — © 2026 Dilshaan Gill</sub></p>
