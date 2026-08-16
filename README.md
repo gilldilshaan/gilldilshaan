@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/gilldilshaan/orchestraos">OrchestraOS</a> ·
-<a href="https://github.com/gilldilshaan/macroroute-ml">MacroRoute ML</a> ·
-<a href="https://github.com/gilldilshaan/Mess-AI">Mess-AI</a> ·
-<a href="https://github.com/gilldilshaan/Study-Pulse-">Study-Pulse</a> ·
-<a href="https://github.com/gilldilshaan?tab=repositories">view all repositories →</a>
+  <a href="https://github.com/gilldilshaan/orchestraos"><img src="https://img.shields.io/badge/OrchestraOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="OrchestraOS"></a>
+  <a href="https://github.com/gilldilshaan/macroroute-ml"><img src="https://img.shields.io/badge/MacroRoute%20ML-181717?style=for-the-badge&logo=github&logoColor=white" alt="MacroRoute ML"></a>
+  <a href="https://github.com/gilldilshaan/Mess-AI"><img src="https://img.shields.io/badge/Mess--AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mess-AI"></a>
+  <a href="https://github.com/gilldilshaan/Study-Pulse-"><img src="https://img.shields.io/badge/Study--Pulse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Study-Pulse"></a>
+  <a href="https://github.com/gilldilshaan?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a>
 </p>
 
 <br>
