@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/gilldilshaan/orchestraos">OrchestraOS</a> ·
-<a href="https://github.com/gilldilshaan/macroroute-ml">MacroRoute ML</a> ·
-<a href="https://github.com/gilldilshaan/Mess-AI">Mess-AI</a> ·
-<a href="https://github.com/gilldilshaan/Study-Pulse-">Study-Pulse</a> ·
-<a href="https://github.com/gilldilshaan?tab=repositories">view all repositories →</a>
+  <a href="https://github.com/gilldilshaan/orchestraos"><img src="https://img.shields.io/badge/OrchestraOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="OrchestraOS"></a>
+  <a href="https://github.com/gilldilshaan/macroroute-ml"><img src="https://img.shields.io/badge/MacroRoute%20ML-181717?style=for-the-badge&logo=github&logoColor=white" alt="MacroRoute ML"></a>
+  <a href="https://github.com/gilldilshaan/Mess-AI"><img src="https://img.shields.io/badge/Mess--AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mess-AI"></a>
+  <a href="https://github.com/gilldilshaan/Study-Pulse-"><img src="https://img.shields.io/badge/Study--Pulse-181717?style=for-the-badge&logo=github&logoColor=white" alt="Study-Pulse"></a>
+  <a href="https://github.com/gilldilshaan?tab=repositories"><img src="https://img.shields.io/badge/View%20All%20Repos-000000?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"></a>
 </p>
 
 <br>
@@ -45,12 +45,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=17130F&title_color=D8432A&icon_color=D8432A&text_color=F3EFE6&disable_animations=true" alt="Dilshaan Gill's GitHub stats" width="400">
-  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true&background=17130F&stroke=5C5548&ring=D8432A&fire=D8432A&currStreakNum=F3EFE6&sideNums=CBC2AC&currStreakLabel=D8432A&sideLabels=CBC2AC&dates=9A9182" alt="GitHub streak" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=gilldilshaan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D8432A&icon_color=D8432A&text_color=E6EDF3&disable_animations=true&custom_title=Dilshaan%20Gill%E2%80%99s%20GitHub%20Stats" alt="Dilshaan Gill's GitHub Stats" width="400">
+  <img src="https://streak-stats.demolab.com?user=gilldilshaan&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=D8432A&fire=D8432A&currStreakNum=E6EDF3&sideNums=8B949E&currStreakLabel=D8432A&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="400">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=17130F&color=CBC2AC&line=D8432A&point=F3EFE6&area=true&hide_border=true&title_color=D8432A&radius=0" alt="Contribution activity graph" width="820">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilldilshaan&bg_color=0D1117&color=8B949E&line=D8432A&point=E6EDF3&area=true&hide_border=true&title_color=D8432A&radius=4&area_color=D8432A" alt="Contribution activity graph" width="820">
 </p>
 
 <br>
