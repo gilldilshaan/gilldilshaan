@@ -10,13 +10,10 @@
 </p>
 
 <p align="center">
-<a href="https://portfolio-eta-gold-68.vercel.app/"><b>PORTFOLIO</b></a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/dilshaangill/"><b>LINKEDIN</b></a>
-&nbsp;·&nbsp;
-<a href="https://github.com/gilldilshaan"><b>GITHUB</b></a>
-&nbsp;·&nbsp;
-<a href="mailto:your.email@example.com"><b>EMAIL</b></a>
+  <a href="https://portfolio-eta-gold-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/dilshaangill/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/gilldilshaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
@@ -80,10 +77,10 @@
 <br>
 
 <p align="center">
-<a href="https://portfolio-eta-gold-68.vercel.app/">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/dilshaangill/">LinkedIn</a> ·
-<a href="https://github.com/gilldilshaan">GitHub</a> ·
-<a href="mailto:your.email@example.com">Email</a>
+  <a href="https://portfolio-eta-gold-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/dilshaangill/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/gilldilshaan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center"><sub>Chandigarh, IN — © 2026 Dilshaan Gill</sub></p>
